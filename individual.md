@@ -1,6 +1,8 @@
 # FEEDBACK-Alex-T
 
-Feedback for Alex T.   Mentor: Fred   Githubid:  foobarfum
+* Feedback for Alex T   
+* Mentor: Fred
+* Github ids:  foobarfum
 
 
 # Individual Lab Work
@@ -8,7 +10,7 @@ Feedback for Alex T.   Mentor: Fred   Githubid:  foobarfum
 ## lab00
 
 
-# APS
+# APS Homework
 
 ## Repo Creation
 
@@ -20,10 +22,11 @@ Feedback for Alex T.   Mentor: Fred   Githubid:  foobarfum
 
 ## Week 4 Solution
 
-# Homework
 
-## H00
+# Enrichment Videos
 
-## H01
+## EV01
 
-## H02
+## EV02
+
+## EV03
